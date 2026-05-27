@@ -1,0 +1,33 @@
+[
+  {
+    "name": "John",
+    "age": 17,
+    "city": "Hong Kong",
+     "address": {
+        "Line1": "Flat C",
+        "Line2": "XXXX",
+        "Country": "China"
+     }
+  },
+  {
+    "name": "Mary",
+    "age": 20,
+    "city": "Paris",
+     "address": {
+        "Line1": "Flat C",
+        "Line2": "XXXX",
+        "Country": "France"
+     }
+  },
+  {
+    "name": "Jennie",
+    "age": 30,
+    "city": "Paris",
+     "address": {
+        "Line1": "Flat L",
+        "Line2": "XXXX",
+        "Country": "France"
+     }
+  }
+
+]
